@@ -1,1 +1,1 @@
-# Breast_Cancer_Classification-_Using_Deep_Learning_Technique_With_Mammogram_Image
+For this purpose, I use a Convolutional neural network (CNN) and Inception v3 model to classify breast cancer.
